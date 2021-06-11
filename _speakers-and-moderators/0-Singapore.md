@@ -1,6 +1,7 @@
 ---
 title: 新加坡
 permalink: /speakers-and-moderators/singapore/
+text-align: justify
 ---
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
 
