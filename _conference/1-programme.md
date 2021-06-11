@@ -1,5 +1,6 @@
 ---
 title: 论坛议程
+text-align: justify
 permalink: /conference/programme/
 ---
 <style>
