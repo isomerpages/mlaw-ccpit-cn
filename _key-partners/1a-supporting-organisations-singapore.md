@@ -1,6 +1,6 @@
 ---
 title: 新加坡
-permalink: /key-partners/支持机构/singapore
+permalink: /key-partners/测试/singapore
 third_nav_title: 支持机构
 ---
 
