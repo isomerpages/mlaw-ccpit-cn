@@ -1,6 +1,7 @@
 ---
 title: 新加坡
-permalink: /key-partners/测试/singapore
+permalink: /key-partners/supporting-organisations/singapore
+second_nav_title: 测试
 third_nav_title: 支持机构
 ---
 
