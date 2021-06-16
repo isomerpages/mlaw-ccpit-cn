@@ -1,7 +1,6 @@
 ---
 title: 新加坡
 permalink: /key-partners/supporting-organisations/singapore
-second_nav_title: 测试
 third_nav_title: 支持机构
 ---
 
