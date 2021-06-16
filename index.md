@@ -11,7 +11,7 @@ sections:
         url: https://form.gov.sg/60a3368267fcaf0011ff4922
         key_highlights:
             - title: 论坛直播网址（原声）
-              description: Page A is important too
+              description: 请点击此观看论坛直播（原声）
               url: https://google.com
             - title: 论坛直播网址（英文）
               description: 请点击此观看论坛直播（英文）
