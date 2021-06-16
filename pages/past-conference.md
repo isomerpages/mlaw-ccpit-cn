@@ -27,9 +27,9 @@ permalink: /past-conference
 ![Q&A Session](/images/05.JPG)
 ###### *嘉宾互动环节*
 <br> 
-<br/> 
+<br> 
 
-![Panel 3](/images/06.JPG)
+![Panel 3](/images/06.JPG) 
 ###### *专题三： 国际商事调解的未来发展*
-<br/> 
-<br/> 
+<br> 
+<br> 
