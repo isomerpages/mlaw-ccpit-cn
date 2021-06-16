@@ -1,6 +1,6 @@
 ---
 title: 开幕仪式嘉宾
-permalink: /speakers-and-moderators/china/
+permalink: /speakers-and-moderators/opening-ceremony/
 ---
 
 ### 唐振辉
