@@ -17,7 +17,7 @@ permalink: /past-conference
 ![Prof Zhang](/images/03.JPG)
 ###### *最高人民法官国际商事法庭商事专家委员、前世界贸易组织上诉机构大法官张月姣专题一： 国际商事争议的司法保障与发展发言*
 <br>
-<br>
+<br/> 
 
 ![Panel 1](/images/04.JPG)
 ###### *专题一： 国际商事争议的司法保障与发展*
@@ -26,10 +26,10 @@ permalink: /past-conference
 
 ![Q&A Session](/images/05.JPG)
 ###### *嘉宾互动环节*
-<br>
-<br>
+<br> 
+<br/> 
 
 ![Panel 3](/images/06.JPG)
 ###### *专题三： 国际商事调解的未来发展*
-<br>
-<br>
+<br/> 
+<br/> 
