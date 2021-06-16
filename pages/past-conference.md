@@ -5,7 +5,7 @@ permalink: /past-conference
 
 
 ![Group Photo](/images/02.JPG) 
-*中国-新加坡国际商事争议解决论坛合照*
+###### *中国-新加坡国际商事争议解决论坛合照*
 <br>
 <br>
 
