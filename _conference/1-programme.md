@@ -173,7 +173,7 @@ table tr td {
            </td>
          </tr>
          <tr>
-           <td><b>11.30am-12.00pm<b></td>
+           <td><b>11.30am-12.00pm</b></td>
            <td><b>闭幕式</b><br>
              <br>
              主持人：张全军 厦门市贸促会会长<br>
