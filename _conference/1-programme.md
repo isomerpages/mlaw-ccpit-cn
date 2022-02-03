@@ -105,15 +105,7 @@ table tr td {
           </td>
          </tr>
   </table>
-  
-<style>
-table tr td ul li {
-  font-size: 1rem; 
-  }
-table tr td {
-  line-height: 2.2rem;
-  }
-</style>
+
 ## 4月1日
   
   <table>
