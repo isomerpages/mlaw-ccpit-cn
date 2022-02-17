@@ -22,6 +22,8 @@ colors:
 collections:
   conference:
     output: true
+  videos:
+    output: true
   speakers-and-moderators:
     output: true
   key-partners:
