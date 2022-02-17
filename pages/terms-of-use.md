@@ -96,7 +96,7 @@ ii. MLAW shall not be liable for any damages, losses, compensation, penalty, exp
 
 <li>Any delay or errors in operation or transmission of the Digital Service arising from communications failure, internet access difficulties or malfunctions in equipment or software;</li>
 
-<li>Use or access to the Digital Serviceor any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and</li>
+<li>Use or access to the Digital Service or any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and</li>
 
 <li>Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.</li>  
 
