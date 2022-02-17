@@ -90,7 +90,7 @@ ii. MLAW shall not be liable for any damages, losses, compensation, penalty, exp
 
 <li>Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;</li>
 
-<li>The access to the Digital Serviceor use of any services offered on the Digital Service;</li>
+<li>The access to the Digital Service or use of any services offered on the Digital Service;</li>
 
 <li>Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;</li>
 
