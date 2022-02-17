@@ -1,4 +1,1 @@
----
-title: Privacy
-permalink:https://mlaw-ccpit-staging.netlify.app/privacy/
----
+[Privacy](https://mlaw-ccpit-staging.netlify.app/privacy/)
