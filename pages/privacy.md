@@ -28,4 +28,10 @@ c. For your convenience, we may also display to you data you had previously supp
 <br>
 a. have any enquires or feedback on our data protection policies and procedures,<br>
 <br>
-b. need more information on or access to data which you have provided to us in the past. 
+b. need more information on or access to data which you have provided to us in the past.<br>
+<br>
+8. “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.<br>
+<br>
+9. “Non-Government entity” refers to a person other than a Government Agency.<br>
+<br>
+10. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).” 
