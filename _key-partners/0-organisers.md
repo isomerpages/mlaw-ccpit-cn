@@ -56,6 +56,8 @@ permalink: /key-partners/organisers/
 
 2018年12月5日，调解中心被最高人民法院纳入“一站式”国际商事纠纷多元化解决机制的调解机构，体现了最高人民法院对调解中心多年从事涉外商事调解工作的充分肯定和高度认可。此外，调解中心还被指定为解决《〈内地与香港/澳门关于建立更紧密经贸关系的安排〉投资协议》（简称“CEPA”）项下投资争端解决的调解中心。
 
+### 国际商事争端预防与解决组织
+
 <div class="img-logo">
   <img src="/images/icdpaso1.png" title="ICDPASO" alt="ICDPASO">
 </div>
