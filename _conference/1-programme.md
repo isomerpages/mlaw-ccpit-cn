@@ -11,6 +11,7 @@ table tr td {
   line-height: 2.2rem;
   }
 </style>
+
 ## 议程
 
 <table>
@@ -69,8 +70,7 @@ table tr td {
       </tr>
       <tr>
         <td><b>12.00pm-1.30pm</b></td>
-        <td><b>工作餐</b><br>
-      </tr>
+        <td><b>工作餐</b></tr>
       <tr>
          <td><b>2.30pm-3.20pm</b></td>
          <td><b>专题一：新冠肺炎疫情下司法应对和法律服务经验及新启示</b><br>
@@ -104,7 +104,7 @@ table tr td {
         </tr>
         <tr>
         <td><b>4.10pm-4.25pm</b></td>
-        <td><b>茶歇</b><br>
+        <td><b>茶歇</b><br></td>
         </tr>
         <tr>
           <td><b>4.25pm-5.15pm</b></td>
@@ -138,6 +138,6 @@ table tr td {
            </tr>
            <tr>
              <td><b>6.30pm-8.30pm</b></td>
-             <td>晚宴(受邀嘉宾参加)</td>
+             <td><b>晚宴(受邀嘉宾参加)</b></td>
            </tr>
    </table>
