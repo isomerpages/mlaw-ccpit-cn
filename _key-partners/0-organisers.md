@@ -7,6 +7,10 @@ permalink: /key-partners/organisers/
 
 ### 新加坡律政部 (MinLaw)
 
+<div class="img-logo">
+  <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
+</div>
+
 新加坡律政部的使命是通过政策、法律和相关的服务增进诉诸司法的途径，促进法治建设和经济与社会的发展。
 
 律政部推动法律改革，监督有关新加坡法律行业的发展、推广与监管，并借由国际法律政策和合作，推进新加坡的国家利益。
@@ -21,9 +25,17 @@ permalink: /key-partners/organisers/
 
 ### 中国国际贸易促进委员会法律事务部
 
+<div class="img-logo">
+  <img src="/images/ccpit-logo.png" title="CCPIT" alt="CCPIT">
+</div>
+
 中国国际贸易促进委员会法律事务部新组建于2015年4月1日，下设5个处室。主要工作任务包括统筹贸促会涉法工作、组织行业应对经贸摩擦和维护产业安全、开展反垄断、合规等相关工作、参与立法修法、统筹贸促会知识产权相关工作、负责公职律师日常业务管理、推动国际商事争端机制和机构建设、参与相关国际组织的规则制定、开展国际法律交流与合作、组织面向系统和企业的专业培训等各项涉法工作。
 
 ### 中国国际贸易促进委员会调解中心
+
+<div class="img-logo">
+  <img src="/images/ccpit-mediation-center-logo.jpeg" title="CCPIT Mediation Center" alt="CCPIT Mediation Center">
+</div>
 
 中国国际贸易促进委员会/中国国际商会调解中心成立于1987年，是中国最早以调解的方式，独立、公正地帮助中外当事人解决商事、海事等纠纷的常设调解机构。目前，调解中心已在全国主要城市设有51家分（支）会调解机构、形成了覆盖全国的调解工作网络，并与世界上18个国家和地区的争议解决机构建立了合作机制或成立中外联合调解中心。
 
