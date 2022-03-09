@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         background: /images/CCPIT2022-HeroBanner-9Mar22.jpg
-        button: 报名表格
+        button: 注册兴趣
         url: https://form.gov.sg/60a3368267fcaf0011ff4922
         key_highlights:
             - title: 论坛直播网址（原声）
