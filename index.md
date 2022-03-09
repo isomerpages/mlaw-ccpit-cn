@@ -6,7 +6,7 @@ description: 中新国际商事争端解决论坛
 permalink: /
 sections:
     - hero:
-        background: /images/CCPIT-HeroBanner-27May21.jpg
+        background: /images/CCPIT2022-HeroBanner-9Mar22.jpg
         button: 报名表格
         url: https://form.gov.sg/60a3368267fcaf0011ff4922
         key_highlights:
