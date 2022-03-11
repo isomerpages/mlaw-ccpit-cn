@@ -73,8 +73,4 @@ table tr td {
              <br>
             </td>
            </tr>
-           <tr>
-             <td>6.30pm-8.30pm</td>
-             <td>晚宴(受邀嘉宾参加)</td>
-           </tr>
    </table>
