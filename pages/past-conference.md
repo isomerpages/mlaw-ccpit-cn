@@ -47,7 +47,7 @@ permalink: /past-conference
 <br>
 
 ![Dinner](/images/17.jpeg) 
-###### *论坛晚宴嘉宾享用晚餐*
+###### *论坛嘉宾享用晚餐*
 <br>
 <br>
 
