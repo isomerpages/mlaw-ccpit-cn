@@ -10,12 +10,6 @@ permalink: /past-conference
 <br>
 
 
-![Bilateral Discussions](/images/18.jpeg) 
-###### *前律政部兼卫生部高级政务部长唐振辉及前中国国际贸易促进委员会会长高燕就国际商事争端课题交换意见*
-<br>
-<br>
-
-
 ![Opening Address](/images/07.JPG)
 ###### *前律政部兼卫生部高级政务部长唐振辉答谢晚宴*
 <br>
@@ -48,15 +42,5 @@ permalink: /past-conference
 
 ![Dinner](/images/17.jpeg) 
 ###### *论坛嘉宾享用晚餐*
-<br>
-<br>
-
-![Dinner 2](/images/15.jpeg) 
-###### *前律政部兼卫生部高级政务部长唐振辉与同桌嘉宾进行讨论*
-<br>
-<br>
-
-![Dinner 3](/images/22.jpeg) 
-###### *前律政部兼卫生部高级政务部长唐振辉与同桌嘉宾享用晚餐*
 <br>
 <br>
