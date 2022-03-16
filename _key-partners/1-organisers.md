@@ -1,6 +1,6 @@
 ---
 title: 承办单位
-permalink: /key-partners/partner-organisations/
+permalink: /key-partners/organisers/
 ---
 <style>
   
