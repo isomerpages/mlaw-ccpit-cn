@@ -1,7 +1,7 @@
 ---
 title: 新加坡
 permalink: /key-partners/supporting-organisations/singapore
-third_nav_title: 支持机构
+third_nav_title: 支持单位
 ---
 
 <style>
@@ -18,6 +18,6 @@ third_nav_title: 支持机构
 
 </style>
 
-## 支持机构（新加坡）
+## 支持单位（新加坡）
 
 ### 信息正在更新
