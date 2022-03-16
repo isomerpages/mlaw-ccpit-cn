@@ -4,18 +4,22 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/CCPIT-House-Blue50.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Speakers And Moderators
-    url: /speakers-and-moderators/
-  - title: Past Conference
-    url: /past-conference/
-  - title: Conference
+  - title: 论坛
     collection: conference
-  - title: Key Partners
+  - title: 视频
+    collection: videos
+  - title: 演讲者与主持人
+    collection: speakers-and-moderators
+  - title: 机构介绍
     collection: key-partners
-  - title: News
-    resource_room: true
+  - title: 往届论坛
+    url: /past-conference/
+  - title: EN
+    url: 'https://mlaw-ccpit-staging.netlify.app/'
+    
+
+
+

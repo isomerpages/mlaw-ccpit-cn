@@ -197,14 +197,14 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	background-color: $secondary;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken($secondary,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			border-top:1px solid darken($secondary,10%);
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			background-color: darken($secondary,10%);
 		}
 	}
 }
@@ -334,4 +334,8 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+
+.bp-hero-body {
+  background: unset; 
 }
