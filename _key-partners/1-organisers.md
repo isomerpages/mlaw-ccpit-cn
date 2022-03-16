@@ -1,9 +1,7 @@
 ---
-title: 新加坡
-permalink: /key-partners/supporting-organisations/singapore
-third_nav_title: 支持机构
+title: 承办单位
+permalink: /key-partners/organisers/
 ---
-
 <style>
   
   @media (min-width: 361px){
@@ -18,6 +16,6 @@ third_nav_title: 支持机构
 
 </style>
 
-## 支持机构（新加坡）
+## 承办单位
 
 ### 信息正在更新
