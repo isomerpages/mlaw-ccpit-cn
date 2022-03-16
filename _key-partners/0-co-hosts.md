@@ -1,6 +1,6 @@
 ---
 title: 主办单位
-permalink: /key-partners/co-hosts/
+permalink: /key-partners/hosts/
 ---
 <style>
   
