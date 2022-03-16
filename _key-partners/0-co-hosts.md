@@ -1,5 +1,5 @@
 ---
-title: 承办单位
+title: 主办单位
 permalink: /key-partners/co-hosts/
 ---
 <style>
