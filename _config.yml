@@ -28,15 +28,7 @@ collections:
     output: true
   key-partners:
     output: true
-google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K3DGMX8M9W"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-K3DGMX8M9W');
-</script>
+google_analytics: G-K3DGMX8M9W
 resources_name: news
 
 description: An Isomer site of the Singapore Government
