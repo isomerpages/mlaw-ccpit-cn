@@ -28,7 +28,7 @@ collections:
     output: true
   key-partners:
     output: true
-google_analytics: G-8MHEKLT8TF
+google_analytics: UA-223334662-2
 resources_name: news
 
 description: An Isomer site of the Singapore Government
