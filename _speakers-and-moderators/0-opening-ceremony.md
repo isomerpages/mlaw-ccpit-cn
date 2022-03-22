@@ -1,5 +1,6 @@
 ---
 title: 开幕仪式嘉宾
+text-align: justify
 permalink: /speakers-and-moderators/opening-ceremony/
 ---
 
@@ -7,6 +8,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
 .content img {
   max-width: 200px;
   margin-left: 0;
+  }
 </style>
 
 ## Moderator
