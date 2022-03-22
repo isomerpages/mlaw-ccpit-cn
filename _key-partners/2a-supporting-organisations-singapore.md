@@ -21,69 +21,64 @@ third_nav_title: 支持单位
 ## 支持单位（新加坡）
 
 
-### Singapore International Arbitration Centre (SIAC)
+### 新加坡国际仲裁中心(SIAC)
 
 <div class="img-logo">
   <img src="/images/SIAC Logo.jpg" title="SIAC Logo" alt="SIAC Logo">
 </div>
 
-Since commencing operations in 1991 as an independent, not-for-profit organisation, SIAC has established a track record for providing best in class arbitration services to the global business community. SIAC is a global arbitral institution providing cost-competitive and efficient case management services to parties from all over the world.   
+新加坡国际仲裁中心（简称“新仲”）于1991年正式运营，系独立非盈利性机构。新仲一贯为全球商业社会提供行业最优仲裁服务。新仲作为全球性仲裁机构为来自世界各地的当事人提供经济、高效的案件管理服务。  
 
-The SIAC Rules provide a state-of-the-art procedural framework for efficient, expert and enforceable resolution of international disputes of all sizes and complexities involving parties from diverse legal systems and cultures.
+针对来自不同法律制度和文化背景的当事人，为方便各种规模及复杂程度的跨境争议的高效、专业及有效解决，新仲仲裁规则提供了最为先进的程序性框架。
 
 
-### Singapore International Mediation Centre (SIMC)
+### 新加坡国际调解中心 (SIMC)
 
 <div class="img-logo">
   <img src="/images/SIMC Logo.png" title="SIMC Logo" alt="SIMC Logo">
 </div>
 
-The Singapore International Mediation Centre (SIMC) is a not-for-profit organisation that offers professional dispute resolution services tailored to the evolving needs of businesses in Asia. We work across multiple jurisdictions covering both common and civil law traditions. Our panel of over 70 international independent mediators have extensive experience resolving cross-border disputes and are highly regarded for delivering successful outcomes in complex, high-stakes commercial disputes. Please contact us for a complimentary and non-obligatory consultation on mediating with us.
+新加坡国际调解中心（简称“新调”）是一个非营利组织，通过提供专业的跨境商业争议解决服务，以满足亚洲企业不断变化的需求。我们的业务范围跨越多个司法管辖区，包括普通法系和大陆法系。本中心的国际调解委员会由70余名来自全球各地的智深律师，法律顾问及调解员等的专业人士组成。我们的国际调解员在解决跨境争议方面拥有丰富的经验，屡次成功解决复杂的高风险商业争议而得到了当事人的高度认可。新调的调解成功率高达80%。新调的经验丰富的案件管理团队可根据需求提供定制化的个案管理服务，负责安排所有调解相关事宜
 
 
-### Singapore International Commercial Court (SICC)
+### 新加坡国际商业法庭(SICC)
 
 <div class="img-logo">
   <img src="/images/SICC Logo.jpg" title="SICC Logo" alt="SICC Logo">
 </div>
 
-The Singapore International Commercial Court (SICC) was established to meet the growing demand for effective transnational dispute resolution services in Asia and beyond. Due to Singapore’s strategic location, the SICC is well-placed to provide a trusted neutral venue in support of the diverse Belt and Road Initiatives as our world-class judiciary is known for its efficiency, competence and integrity. The SICC bench comprises a diverse panel of eminent international and local judges who are experienced specialist commercial judges in their own right.  An important feature of the SICC is that it allows foreign lawyers to represent parties in certain circumstances, so long as they are registered with the Court and subject themselves to a Code of Ethics.   
+新加坡国际商业法庭的成立，是为了满足人们在亚洲和亚洲以外地区对有效的跨国纠纷解决服务与日俱增的需求。新加坡位于亚太区的战略位置，拥有以效率高、能力强、诚信度高著称的世界级司法机构，使新加坡国际商业法庭具备优越条件提供一个中立、可靠的诉讼地来支持多元化的一带一路倡议。新加坡国际商业法庭的国际和本地法官的背景多元，深具威望，而且都是经验丰富、专门处理商事案件的法官。新加坡国际商业法庭的一个重要特点是，在特定情况下，允许已向法庭注册并承诺遵守职业道德守则的外国律师担任诉讼方的代表律师。 新加坡国际商业法庭采用最佳国际实践来解决商事纠纷，程序具灵活性，可在几个方面作出调整以配合各方的偏好。即便如此，新加坡国际商业法庭仍保留了诉讼程序的优势，例如设有上诉渠道以及临时措施。所发表的判决，裁决理由明确，有助于日后解决类似性质的纠纷。诉讼方能够将第三方或关联方加
 
-The SICC adopts international best practices for commercial disputes. Its procedures are flexible and may be tailored to suit parties’ preferences in several aspects. Yet, the SICC retains advantages of litigation like the availability of appeal and interim measures.  Published judgments with clear grounds of decision will also aid in future disputes of a similar nature.  And most vital in multi-party/multi-contract scenarios: the ability to join third and related parties. Finally, parties having their disputes adjudicated at the SICC will find that court fees are quite cost-effective. 
+入诉讼，对涉及多方或多份合同的情况而言更是最重要不过的。最后，将纠纷交由新加坡国际商业法庭裁定的诉讼方会发现庭费颇为合算。 从本质上而言，新加坡国际商业法庭为诉讼各方提供一个真正独一无二的纠纷解决选择，由于它结合了国际仲裁的最佳实践与国际商法的实质原则，故又有“诉讼中的仲裁”之称。欲知更多有关新加坡国际商业法庭的信息，请浏览 [http://www.sicc.gov.sg](http://www.sicc.gov.sg) 或电邮至 [SICC_Development@supcourt.gov.sg](mailto:SICC_Development@supcourt.gov.sg).
 
-In essence, the SICC gives parties a truly unique dispute resolution option – which has been described by some as “arbitration in litigation”, combining the best practices of international arbitration with the substantive principles of international commercial law.  For more information about the SICC, please visit [http://www.sicc.gov.sg](http://www.sicc.gov.sg) or email [SICC_Development@supcourt.gov.sg](mailto:SICC_Development@supcourt.gov.sg).
-
-### Singapore International Dispute Resolution Academy (SIDRA)
+### 新加坡国际争议解决学院 (SIDRA)
 
 <div class="img-logo">
   <img src="/images/SIDRA Logo.jpg" title="SIDRA Logo" alt="SIDRA Logo">
 </div>
 
+新加坡国际争议解决学院（SIDRA）在国际争端解决理论、实践和政策上提供思想领导的平台。SIDRA是新加坡管理大学杨邦孝法学院的研究中心，在全球、区域和国家层面，通过项目、出版物和活动推动有关如何建设性地参与和解决争端的深层讨论。SIDRA通过对行业产生实际影响的研究而与众不同，包括执行SIMI注册的调解员培训课程，以及IMI认证的调解倡导培训课程。  
 
-The Singapore International Dispute Resolution Academy (SIDRA) is a platform for thought leadership in international dispute resolution theory, practice and policy. A research centre at the Singapore Management University Yong Pung How School of Law, SIDRA leads the way through projects, publications and events that promote dynamic and inclusive conversations on how to constructively engage with and resolve differences and disputes at global, regional and national levels. In particular, SIDRA differentiates itself through its focus on applied research that has practical impact on industry, including conducting SIMI Registered Training Programmes for mediator accreditation, and IMI-accredited training programmes for mediation advocacy.   
+SIDRA由三大项目进行研究：国际争议解决调查（SIDRA调查）, 新加坡调解公约和“一带一路”倡议。SIDRA国际争议解决调查旨在了解更多有关企业和律师如何以及为何做出解决跨境商业纠纷的决定的信息，并探讨诸如技术、多样性和第三方融资之类的前沿议题。 新加坡调解公约项目主要研究专题包括‘新加坡调解公约－评论’以及‘国际和比较调解－亚洲观点’。“一带一路”倡议项目旨在促进就“一带一路”倡议跨境争议解决的问题的全球讨论。SIDRA为学者、从业者、法官和政策制定者提供论坛，以了解“一带一路”倡议在该地区和全球范围内的实际和多方面影响，并聚焦“一带一路”倡议下与解决争端有关的问题。
 
-SIDRA conducts research on three main areas – the international dispute resolution survey (SIDRA Survey), the Singapore Convention on Mediation and the Belt and Road Initiative.  The SIDRA Survey aims to learn more about how and why businesses and lawyers make decisions about resolving cross-border commercial disputes, and deals with issues at the forefront of debate such as technology, diversity, and third-party funding.  The research on the Singapore Convention on Mediation includes key projects including ‘Singapore Convention on Mediation – A Commentary’ and ‘International and Comparative Mediation – An Asian Perspective’ which will feature comparative research on the mediation eco-systems in civil and common law systems in Asia. The research on the Belt & Road Initiative aims to contribute to the global discourse on complexities that would arise in cross-border dispute resolution under the Belt and Road Initiative.  SIDRA's BRI program aims to provide a forum for academics, practitioners, judges, and policymakers to understand the practical and multi-faceted implications of the BRI in the region and globally, and to spotlight issues relating to dispute resolution under the BRI.
-
-### Singapore Chamber of Maritime Arbitration(SCMA)
+### 新加坡海事仲裁院(SCMA)
 
 <div class="img-logo">
   <img src="/images/SCMA Logo.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>
 
-The Singapore Chamber of Maritime Arbitration is a specialist arbitration institution which provides a neutral, cost-effective and flexible framework for maritime and international trade arbitrations that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.    
-
-The Secretariat helms the promotion and development of SCMA across the region. The Secretariat also leads educational and training symposiums to foster thought leadership and encourage pragmatic solutions for maritime and trade businesses. The Registrar and Assistant Registrar provide administrative support to disputants and tribunals, when requested.
+新加坡海事仲裁院是一家专业仲裁机构，为航运和国际贸易仲裁提供了一个中立、低成本和灵活的模式，满足行业用户的需求。它的全球和区域成员来自航运界、贸易界和仲裁界。新加坡海事仲裁院通过提供为地区利益而量身定制的解决方案，吸引了该地区的纠纷当事人。 秘书处负责新加坡海事仲裁院在整个区域的推广和发展。秘书处还组织教育和培训研讨会，提升思想领导能力，并鼓励为航运和贸易企业提供务实的解决方案。书记员和助理书记员也会向有需要的纠纷当事人和仲裁庭提供行政支持。
 
 
-### Singapore International Mediation Institute(SIMI)
+### 新加坡国际调解学会(SIMI)
 
 <div class="img-logo">
   <img src="/images/SIMI Logo.png" title="SIMI Logo" alt="SIMI Logo">
 </div>
 
-The Singapore International Mediation Institute (SIMI) is an independent professional standards and accreditation body for mediation in Singapore and the region.
+新加坡国际调解学会（SIMI）是新加坡与东南亚地区的一家独立国际调解标准与专业认证机构
 
-SIMI seeks to promote best mediation practices and high mediator competency standards by establishing, applying and implementing world-class standards of mediation. This is achieved by our various partner schemes for organisations engaged in mediation training and service providers, and individual mediators – the SIMI Partner Scheme and the SIMI Credentialing Scheme. We also work with other standards institutions and accreditation bodies, to drive transparency and high competency standards into mediation practice across all fields, worldwide.
+SIMI旨在通过建立、运用和执行世界级的调解标准来推广最佳调解实践和高水平的调解能力标准。为了实现这目标，我们为从事调解培训和服务的组织及调解员制定了SIMI合作伙伴项目以及SIMI调解员认证项目。同时，我们还与国际调解学会与调解认证机构合作，在所有调解领域的实践中将具有透明度和高水平的调解标准推广到全世界。
 
-To find out more about us, please visit [http://www.simi.org.sg](http://www.simi.org.sg).
+若想查询有关我们机构的更多信息，请游览网站 [http://www.simi.org.sg](http://www.simi.org.sg).
 
