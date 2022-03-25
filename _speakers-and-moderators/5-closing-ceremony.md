@@ -14,10 +14,6 @@ permalink: /speakers-and-moderators/closing-ceremony/
 }
 </style>
 
-## 主持人
-
-信息正在更新
-
 ## 发言嘉宾
 
 <div class="sgds-container">

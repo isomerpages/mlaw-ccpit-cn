@@ -14,9 +14,6 @@ permalink: /speakers-and-moderators/panel-2/
 }
 </style>
 
-## 主持人
-Details to be updated
-
 ## 发言嘉宾     
 
 <div class="sgds-container">
