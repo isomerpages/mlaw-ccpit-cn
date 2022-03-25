@@ -17,7 +17,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
 
 ## 主持人
 
-Details to be updated
+信息正在更新
 
 ## 发言嘉宾
 
