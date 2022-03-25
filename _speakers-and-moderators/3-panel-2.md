@@ -26,16 +26,13 @@ Details to be updated
     </div>
     <div class="col">
     <p>
-      <b>Ms Lucy Reed<br>
-    Independent Arbitrator, Arbitration Chambers (New York); President, International Council for Commercial Arbitration; President, Singapore International Arbitration Centre Court of Arbitration  <br> <br> </b>
+      <b class="speaker-name">露西•里德  </b><br>
+    <b>新加坡国际仲裁中心仲裁院主席、国际商事仲裁理事会主席、纽约仲裁事务所独立仲裁员 <br> <br> </b>
 
-Lucy Reed is an independent arbitrator with Arbitration Chambers (New York), and currently the President of the International Council for Commercial Arbitration and the Singapore International Arbitration Centre (SIAC) Court, and a Director on the SIAC Board.  <br> <br> 
-
-Lucy retired in 2016 from the international law firm Freshfields Bruckhaus Deringer, where she led the global international arbitration group, and then was Professor of Practice and Director of the Centre for International Law of the National University of Singapore through 2019.  While with the US State Department, Lucy served as the US Agent to the Iran-US Claims Tribunal. <br> <br>
-
-She is a former President of the American Society of International Law, Chair of the Institute for Transnational Arbitration, and a Vice President of the ICC International Court of Arbitration. <br> <br>  
-
-Lucy received degrees from the University of Chicago Law School and Brown University. 
+露西•里德是纽约仲裁事务所的独立仲裁员，现任国际商事仲裁理事会主席及新加坡国际仲裁中心仲裁院主席兼董事。<br><br>
+她曾主管富而德律师事务所的国际仲裁业务部，并在2016年退休。之后，她担任新加坡国立大学的实践教授及国际法中心主任直至2019年。里德也曾在美国国务院任职期间担任伊朗-美国索赔法庭的美方代理人。<br><br>
+除此以外，里德也是美国国际法律协会的前主席，现任跨国仲裁协会的主席，和国际商会仲裁院副主席。<br><br>
+露西•里德持有芝加哥大学法学院和布朗大学的文凭。<br><br>
       </p>
     </div>
   </div>
