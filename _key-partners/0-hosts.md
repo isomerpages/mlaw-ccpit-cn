@@ -10,12 +10,24 @@ permalink: /key-partners/hosts/
     margin-left: 0;
     }
 
+  .mlaw-logo img {
+
+  }
+
+  .ccpit-logo img {
+    height: 150px;
+  }
+
+  .icdpaso-logo img {
+    height: 150px;
+  }
+
 </style>
 
 ## 新加坡
 
 <br>
-<div class="img-logo">
+<div class="img-logo mlaw-logo">
   <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
 </div>
 
@@ -32,13 +44,13 @@ permalink: /key-partners/hosts/
 ## 中国
 
 
-<div class="img-logo">
+<div class="img-logo ccpit-logo">
   <img src="/images/ccpit-logo.png" title="CCPIT" alt="CCPIT">
 </div>
 
 <b>中国国际贸易促进委员会（简称：中国贸促会）</b>成立于1952年。中国贸促会的主要职责是，落实国家有关重大发展战略，促进对外贸易、双向投资和经济技术合作；推进与境外对口机构机制化合作；接待境外高层次经贸代表团来访，组织中国经贸代表团出访；管理全国出国举办经贸展览会，负责中国参加国际展览局和世界博览会事务；举办和组织企业参加经贸展览会、论坛、洽谈会及有关国际会议；在外经贸领域代言工商，参与经贸政策法规制定、对外经贸谈判和国际商事规则制定；开展法律顾问、商事调解、经贸和海事仲裁等工作，签发和出具出口商品原产地证明书、对外贸易有关文件和单证，提供专利申请、商标注册、诉讼维权等知识产权服务；组织产业和企业应对经贸摩擦；提供经贸信息、经贸培训等服务。
 
-<div class="img-logo">
+<div class="img-logo icdpaso-logo">
   <img src="/images/icdpaso1.png" title="ICDPASO" alt="ICDPASO">
 </div>
 
