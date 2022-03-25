@@ -19,7 +19,7 @@ permalink: /speakers-and-moderators/panel-3/
 <div class="sgds-container">
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-panel 3-Hee Theng Fong.png" alt="Photo of Mr Hee Theng Fong"> 
+    <img src="/images/speakers-panel 3-Hee Theng Fong2.png" alt="Photo of Mr Hee Theng Fong"> 
     </div>
     <div class="col">
       <p>
