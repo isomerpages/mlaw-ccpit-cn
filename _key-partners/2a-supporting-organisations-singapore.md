@@ -40,7 +40,7 @@ third_nav_title: 支持单位
 
 ## 支持单位（新加坡）
 
-<br>
+
 <div class="img-logo scma-logo">
   <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>

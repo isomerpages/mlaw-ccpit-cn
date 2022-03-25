@@ -26,7 +26,7 @@ permalink: /key-partners/hosts/
 
 ## 新加坡
 
-<br>
+
 <div class="img-logo mlaw-logo">
   <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
 </div>
@@ -43,7 +43,7 @@ permalink: /key-partners/hosts/
 
 ## 中国
 
-<br>
+
 <div class="img-logo ccpit-logo">
   <img src="/images/ccpit-logo.png" title="CCPIT" alt="CCPIT">
 </div>
