@@ -41,7 +41,7 @@ permalink: /speakers-and-moderators/keynote-speeches/
 <br>
  <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-keynote speech-Johnny Teo.jpg" alt="Photo of Mr Johnny Teo"> 
+    <img src="/images/speakers-keynote speech-Tin Pei Ling.JPG" alt="Photo of Tin Pei Ling"> 
     </div>
     <div class="col">
     <p>
