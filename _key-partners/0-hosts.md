@@ -14,7 +14,7 @@ permalink: /key-partners/hosts/
 
 ## 新加坡
 
-
+<br>
 <div class="img-logo">
   <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
 </div>
