@@ -20,7 +20,7 @@ Details to be updated
 <div class="sgds-container">
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-opening-Minister Edwin Tong.jpg" alt="Photo of Minister Edwin Tong"> 
+    <img src="/images/speakers-opening-Minister Edwin Tong2.jpg" alt="Photo of Minister Edwin Tong"> 
     </div>
     <div class="col">
     <p>
