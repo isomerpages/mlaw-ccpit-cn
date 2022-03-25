@@ -19,7 +19,7 @@ permalink: /speakers-and-moderators/panel-1/
 <div class="sgds-container">
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-panel 1-LEE Huay Leng.JPG" alt="Photo of Ms Lee Huay Leng">
+    <img src="/images/speakers-panel 1-LEE Huay Leng2.jpg" alt="Photo of Ms Lee Huay Leng">
       </div>
     <div class="col">
     <p>
@@ -34,7 +34,7 @@ permalink: /speakers-and-moderators/panel-1/
   </div>
     </div>
 <hr>
-    
+
 ## 发言嘉宾
 
 <div class="sgds-container">
