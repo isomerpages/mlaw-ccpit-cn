@@ -7,7 +7,7 @@ third_nav_title: 支持单位
 <style>
    
   .img-logo img {
-    height: 70px;
+    max-height: 70px;
     width: auto; 
     margin-left: 0; 
     }
@@ -17,11 +17,11 @@ third_nav_title: 支持单位
   }
 
   .simc-logo img {
-    height: 110px;
+    max-height: 110px;
   }
 
   .sicc-logo img {
-    height: 60px;
+    max-height: 60px;
   }
 
   .sidra-logo img {
@@ -29,11 +29,11 @@ third_nav_title: 支持单位
   }
 
   .scma-logo img {
-    height: 70px;
+    max-height: 70px;
   }
 
   .simi-logo img {
-    height: 100px;
+    max-height: 100px;
   }
 
 </style>

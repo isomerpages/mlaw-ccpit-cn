@@ -5,7 +5,7 @@ permalink: /key-partners/hosts/
 <style>
    
   .img-logo img {
-    height: 110px;
+    max-height: 110px;
     width: auto; 
     margin-left: 0;
     }
@@ -15,11 +15,11 @@ permalink: /key-partners/hosts/
   }
 
   .ccpit-logo img {
-    height: 150px;
+    max-height: 150px;
   }
 
   .icdpaso-logo img {
-    height: 150px;
+    max-height: 150px;
   }
 
 </style>
