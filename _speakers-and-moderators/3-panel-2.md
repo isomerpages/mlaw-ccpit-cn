@@ -3,7 +3,16 @@ title: 专题讨论（二）嘉宾
 text-align: justify
 permalink: /speakers-and-moderators/panel-2/
 ---
+<style> 
+.content img {
+  max-width: 200px;
+  margin-left: 0;
+}
 
+.speaker-name {
+  color: #AC8B60;
+}
+</style>
 
 ## 主持人
 Details to be updated

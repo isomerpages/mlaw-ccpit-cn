@@ -9,6 +9,10 @@ permalink: /speakers-and-moderators/keynote-speeches/
   max-width: 200px;
   margin-left: 0;
 }
+
+.speaker-name {
+  color: #AC8B60;
+}
 </style>
 
 ## 主持人
