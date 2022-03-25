@@ -27,11 +27,14 @@ permalink: /speakers-and-moderators/closing-ceremony/
     </div>
     <div class="col">
     <p>
-    <b>Mr Daryl Chew <br>
-    Chairman of the Board of Directors, Maxwell Chambers; Managing Partner, Three Crowns LLP; Co-Chair, Young Singapore International Arbitration Centre (YSIAC) Committee <br> <br> </b>
-      
-Daryl is the managing partner of the Singapore office of Three Crowns LLP, a global specialist arbitration law firm. He has an active portfolio of arbitrations involving a wide range of applicable laws and venues, arising from energy, construction, M&A, joint venture, and general commercial disputes. Daryl also serves as presiding arbitrator, co-arbitrator and sole arbitrator in institutional and ad hoc arbitration proceedings.<br><br>
-      Daryl features as a “Global Leader” in Who’s Who Legal: Arbitration 2022, which describes him as “a top name for international arbitration” with “great problem-solving skills”. Prior editions of Who’s Who Legal have ranked him as “one of the brightest” and “most highly regarded” partners in the Asia Pacific. He was named among “30 People to Watch in the Business of Law in Asia in 2022” by Asia Law Portal. Chambers and The Legal 500 commend his “outstanding track record”, “superb written advocacy”, “valuable strategic input”, and recommend him for “consistently high-quality work”. Clients in these directories observe that he “scores highly for excellence in proceedings that turn on complex points of law” and describe him as “a brilliant all round talent” and a “phenomenal advocate with the ability to turn the most complex facts in a case into simple, attractive and persuasive argument”.<br><br>
-      Daryl serves as the Chairman of the Board of Maxwell Chambers, an integrated Alternative Dispute Resolution (ADR) complex in Singapore established to provide best of class facilities and services for the conduct of ADR activities. He also co-chairs the YSIAC committee and serves on the IBA Arb40 Steering Committee, Singapore Management University School of Law Advisory Board, and various governmental and regional arbitration committees.
+    <b class="speaker-name">周于凯 </b><br>
+    <b>麦士威国际争议解决中心董事会主席；三冠律师事务所新加坡管理合伙人；新加坡国际仲裁中心青年委员会联合主席 <br> <br> </b>
+      周于凯是麦士威国际争议解决中心的董事会主席。麦士威国际争议解决中心是一个位于新加坡的综合争议解决中心，为争议解决活动提供一流的设施和服务。他也是新加坡国际仲裁中心青年委员会的联合主席，并也任职于国际律师协会Arb40 指导委员会、新加坡管理大学法学院顾问委员会以及多个政府和区域仲裁委员会。<br> <br>
+周于凯 获《法律名人录》列为2022年仲裁界“全球领导者”，誉为“具有出色问题解决能力” 的 “国际仲裁界顶级人物” 。前几届的《法律名人录》也将他评为亚太地区 “其中最聪明” 和 “最受推崇” 的合伙人之一。他被《亚洲法律门户》评为 “2022 年亚洲法律事务值得关注的 30 人” 之一。 《钱伯斯》和《法律 500 强》也称赞他 表现“出色的业绩”、“优等的书面辩护”和“宝贵的策略投入”，并推荐他“持续性给予高质量成品的能力”。此法律评价机构的客户观察说明他“在涉及复杂法律问题的诉讼程序中表现出色”，并称他为“才华横溢的全能人才”和 一位“能够将案件复杂实情化为简单、有吸引力及说服力的论点的杰出律师"。<br> <br> 
+周于凯是一所独专国际仲裁跨国法律事务所, 名为三冠律师事务所的新加坡管理合伙人。他的仲裁案件档案包括涉及不同地点及适用法律，并源于能源、建筑、兼并与收购、合资和一般商业纠纷等领域的案件。周于凯也在多个机构和临时仲裁法律程序中担任首席仲裁员、共同仲裁员和独任仲裁员。
+</p>
+    </div>
+  </div>
+  </div>
 
 
