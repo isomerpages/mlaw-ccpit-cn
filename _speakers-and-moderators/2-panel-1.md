@@ -35,7 +35,22 @@ permalink: /speakers-and-moderators/panel-1/
     </div>
     
 ## 发言嘉宾
-信息正在更新
+
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-panel 1-Gilbert Leong.jpg" alt="Photo of Gilbert Leong"> 
+    </div>
+    <div class="col">
+    <p>
+    <b class="speaker-name">梁清龍</b><br>
+    <b>Dentons瑞德律师事务所高级合伙人</b><br> <br> 
+  梁清龍律师是Dentons瑞德有限责任合伙律师事务所知识产权与科技业务部的高级合伙人。<br><br>
+在协商和起草货物/服务的分销、采购与投标、制造安排、硬件收购、软件开发、许可、维护、知识产权（如：商标和专利）收购、电脑交钥匙项目、咨询服务、知识产权结构、互联网相关交易、云计算和电子商务等商业协议书方面，梁律师具有丰富经验。梁律师也提供有关合营、联盟和并购等方面的咨询服务。梁律师的知识产权诉讼经验包括版权（软件）诉讼、专利侵权以及取得和执行搜查与扣押令。另外，他还根据总检察长就商标法和版权法下的违规行为签发的命令起诉当事人。梁律师也出席商标注册局的聆讯。
+    </p>
+    </div>
+  </div>
+ </div>
 
 
 
