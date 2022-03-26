@@ -11,7 +11,7 @@ permalink: /past-conference
 
 
 ![Opening Address](/images/07.JPG)
-*前律政部兼卫生部高级政务部长唐振辉答谢晚宴*
+*时任律政部兼卫生部高级政务部长唐振辉答谢晚宴*
 <br>
 <br>
 
@@ -36,11 +36,11 @@ permalink: /past-conference
 <br> 
 
 ![Closing Ceremony](/images/16.jpeg) 
-*前任新加坡律师公会会长格雷戈。里维贾延德兰在闭幕式上致辞*
+*时任新加坡律师公会会长格雷戈•里维贾延德兰在闭幕式上致辞*
 <br>
 <br>
 
 ![Dinner](/images/17.jpeg) 
-*论坛嘉宾享用晚餐*
+*论坛嘉宾在晚宴上进行交流*
 <br>
 <br>
