@@ -11,7 +11,7 @@ permalink: /past-conference
 
 
 ![Opening Address](/images/07.JPG)
-*时任律政部兼卫生部高级政务部长唐振辉答谢晚宴*
+*时任律政部兼卫生部高级政务部长唐振辉致开幕辞*
 <br>
 <br>
 
