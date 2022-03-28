@@ -51,4 +51,4 @@ permalink: /speakers-and-moderators/panel-2/
     </p>
     </div>
   </div>
-  </div>
+
