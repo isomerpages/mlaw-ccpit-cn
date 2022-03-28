@@ -67,7 +67,7 @@ permalink: /speakers-and-moderators/keynote-speeches/
 
   <div class="row is-desktop">
       <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-      <img src="/images/speakers-keynote speeches-wang shumei.jpg" alt="Photo of Wang Shumei"> 
+      <img src="/images/speakers-keynote speeches-huang jin.jpg" alt="Photo of Huang Jin"> 
       </div>
       <div class="col">
       <p>
