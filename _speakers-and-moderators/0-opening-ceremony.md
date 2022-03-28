@@ -41,8 +41,8 @@ permalink: /speakers-and-moderators/opening-ceremony/
     </div>
     <div class="col">
     <p>
-    <b class="speaker-name">唐振辉</b><br>
-    <b>新加坡文化、社区及青年部长兼律政部第二部长</b><br> <br> 
+    <b class="speaker-name">唐振辉先生</b><br>
+    <b>新加坡文化，社区及青年部长兼律政部第二部长</b><br> <br> 
   唐振辉是新加坡文化、社区及青年部长兼律政部第二部长。他也是华社联络组主席和人民协会副主席。 <br> <br>
    身为律政部第二部长，唐振辉着重于新加坡法律行业和争议解决服务的推广与发展，包括新加坡调解公约。他也负责多方面的法律改革，例如：知识产权、企业重组与清盘、和法律援助。 <br> <br>
   在任职之前，唐振辉是艾伦格禧律师事务所企业重组与清盘部门以及诉讼与争议解决部门的主任，也是该事务所执行委员会的委员。 唐振辉被公认为新加坡的领先律师，在2015年荣膺高级律师头衔。 
@@ -58,8 +58,8 @@ permalink: /speakers-and-moderators/opening-ceremony/
     </div>
     <div class="col">
     <p>
-    <b class="speaker-name">罗东川 </b><br>
-    <b>中国福建省委副书记、政法委书记、海丝中央法务区建设工作领导小组组长 </b> <br><br>
+    <b class="speaker-name">罗东川先生 </b><br>
+    <b>中国福建省委副书记、政法委书记；海丝中央法务区建设工作领导小组组长 </b> <br><br>
     罗东川，中国福建省委副书记、政法委书记、海丝中央法务区建设工作领导小组组长
     </p>
     </div>
@@ -73,7 +73,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
     </div>
     <div class="col">
     <p>
-    <b class="speaker-name">吕德耀</b><br>
+    <b class="speaker-name">吕德耀阁下</b><br>
     <b>新加坡驻华大使</b><br> <br> 
   吕德耀先生于2019年11月18日担任新加坡驻华大使。 <br><br>
 吕先生出生于1961年，于1983年毕业于英国剑桥大学三一学院，获文学学士学位；并于1994年获美国塔夫茨大学国际关系硕士学位。 <br><br>
@@ -93,8 +93,8 @@ permalink: /speakers-and-moderators/opening-ceremony/
     </div>
     <div class="col">
     <p>
-    <b class="speaker-name">崔永辉 </b><br>
-    <b>中国福建省委常委、厦门市委书记、海丝中央法务区建设工作厦门领导小组组长 </b> <br><br>
+    <b class="speaker-name">崔永辉先生 </b><br>
+    <b>福建省委常委、厦门市委书记、海丝中央法务区建设工作厦门领导小组组长 </b> <br><br>
     福建省委常委、厦门市委书记、海丝中央法务区建设工作厦门领导小组组长
     </p>
     </div>
@@ -109,7 +109,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
     </div>
     <div class="col">
     <p>
-    <b class="speaker-name">任鸿斌 </b><br>
+    <b class="speaker-name">任鸿斌先生 </b><br>
     <b>中国国际贸易促进委员会党组书记、会长 </b><br><br>
     任鸿斌，工程硕士。历任商务部欧洲司副司级干部，驻匈牙利使馆经济商务参赞（副司级），商务部国际贸易经济合作研究院党委书记兼副院长（正司级），商务部世界贸易组织司司长兼中国政府世界贸易组织通报咨询局局长，商务部对外贸易司司长兼国家机电产品进出口办公室副主任。2018年5月任商务部部长助理、党组成员，2021年7月任商务部副部长、党组成员。2022年1月任中国国际贸易促进委员会会长、党组书记。
     </p>
