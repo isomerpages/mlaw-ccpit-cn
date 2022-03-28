@@ -52,6 +52,8 @@ third_nav_title: 支持单位
 
 预知更多资料，请游览[https://www.businesschina.org.sg/](https://www.businesschina.org.sg/)
 
+想获取即时信息，请追踪我们的社交媒体平台：[Facebook](http://fb.com/businesschinasg), [Instagram](http://instagram.com/businesschinasingapore), [LinkedIn](http://linkedin.com/company/businesschinasg).
+
 <br>
 <div class="img-logo scma-logo">
   <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
