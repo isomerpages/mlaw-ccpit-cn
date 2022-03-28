@@ -35,7 +35,7 @@ permalink: /speakers-and-moderators/keynote-speeches/
   </div>
   <hr>
 
-## 发言嘉宾
+## 主旨演讲嘉宾
 
 <div class="sgds-container">
   <div class="row is-desktop">
