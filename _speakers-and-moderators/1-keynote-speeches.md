@@ -14,6 +14,45 @@ permalink: /speakers-and-moderators/keynote-speeches/
   color: #AC8B60;
 }
 </style>
+## 主持人
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-keynote speech-Ellis See.jpg" alt="Photo of Ellis See"> 
+    </div>
+    <div class="col">
+    <p>
+    <b class="speaker-name">施晓惠博士 </b><br>
+    <b>新加坡律政部法律商业司第二司长 </b><br> <br> 
+    施晓惠博士是新加坡律政部法律商业司第二司长。法律商业司负责发展新加坡法律行业，国际法律服务合作，监管律师事务所和律师，和培养法律服务人才相关的政策。<br><br>
+    在调至法律商业部前，施博士曾担任新加坡律政部法律及知识产权服务发展办事处（现称为专业服务发展办事处）的副处长以及知识产权政策部的高级助理司长。<br><br>
+    施博士起步于美光半导体亚洲私人有限公司。她在离开美光前担任培训、绩效管理和拨款部的部门经理，负责处理与专利、技术培训和政府激励措施的相关事务。<br><br>
+    施博士分别在2003年和2007年获得了新加坡国立大学的化学工程学士学位和博士学位。在四年的研究生学习中，她在同行评审的期刊和书籍上发表了 13 篇论文，在其中 11 篇论文中是第一作者。
+    </p>
+    </div>
+  </div>
+  </div>
+  <hr>
+
+## 致辞嘉宾
+
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-opening-Minister Edwin Tong2.jpg" alt="Photo of Minister Edwin Tong"> 
+    </div>
+    <div class="col">
+    <p>
+    <b class="speaker-name">唐振辉先生</b><br>
+    <b>新加坡文化，社区及青年部长兼律政部第二部长</b><br> <br> 
+  唐振辉是新加坡文化、社区及青年部长兼律政部第二部长。他也是华社联络组主席和人民协会副主席。 <br> <br>
+   身为律政部第二部长，唐振辉着重于新加坡法律行业和争议解决服务的推广与发展，包括新加坡调解公约。他也负责多方面的法律改革，例如：知识产权、企业重组与清盘、和法律援助。 <br> <br>
+  在任职之前，唐振辉是艾伦格禧律师事务所企业重组与清盘部门以及诉讼与争议解决部门的主任，也是该事务所执行委员会的委员。 唐振辉被公认为新加坡的领先律师，在2015年荣膺高级律师头衔。 
+    </p>
+    </div>
+  </div>
+ <hr>
+ <br>
 
 ## 发言嘉宾
 
