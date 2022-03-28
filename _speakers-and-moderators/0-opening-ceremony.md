@@ -111,7 +111,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
     <p>
     <b class="speaker-name">任鸿斌 </b><br>
     <b>中国国际贸易促进委员会党组书记、会长 </b><br><br>
-    Mr. REN Hongbin obtained a master’s degree in Engineering. At the Ministry of Commerce (MOFCOM), he worked successively as deputy director-general level official at the Department of European Affairs, Commercial Counselor (deputy director-general level) at the Chinese Embassy in Hungary, Party Secretary and Vice President of China Academy of International Trade and Economic Cooperation, MOFCOM (director-general level); Director-General of the Department of WTO Affairs and Director-General of China WTO Notification and Inquiry Center, and Director-General of the Department of Foreign Trade and Deputy Director of National Mechanic and Electronic Import and Export Office. In May 2018, he became a member of the Leading CPC Members Group of MOFCOM and Assistant Minister of Commerce. In July 2021, he was appointed Vice Minister of Commerce. Since January 2022, he was appointed Secretary of the Leading CPC Members Group and Chairman of the CCPIT.
+    任鸿斌，工程硕士。历任商务部欧洲司副司级干部，驻匈牙利使馆经济商务参赞（副司级），商务部国际贸易经济合作研究院党委书记兼副院长（正司级），商务部世界贸易组织司司长兼中国政府世界贸易组织通报咨询局局长，商务部对外贸易司司长兼国家机电产品进出口办公室副主任。2018年5月任商务部部长助理、党组成员，2021年7月任商务部副部长、党组成员。2022年1月任中国国际贸易促进委员会会长、党组书记。
     </p>
     </div>
   </div>
