@@ -15,6 +15,23 @@ permalink: /speakers-and-moderators/opening-ceremony/
 }
 </style>
 
+## 主持人
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-opening-ke liangdong.jpg" alt="Photo of Ke Liangdong"> 
+    </div>
+    <div class="col">
+    <p>
+    <b class="speaker-name">柯良栋博士 </b><br>
+    <b>中国国际贸易促进委员会党组成员、副会长 </b><br> <br> 
+    柯良栋，武汉大学法学院刑法专业博士研究生。历任公安部法制司副处长、处长、副司长，公安部法制局副局长、局长等职务。2018年3月任十三届全国人大常委会副秘书长、机关党组成员。2020年1月起任中国国际贸易促进委员会党组成员、副会长。
+    </p>
+    </div>
+  </div>
+  </div>
+  <hr>
+
 ## 发言嘉宾
 
 <div class="sgds-container">
@@ -34,6 +51,22 @@ permalink: /speakers-and-moderators/opening-ceremony/
   </div>
  <hr>
  <br>
+ 
+ <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-opening-luo dongchuan.jpg" alt="Photo of Luo Dongchuan"> 
+    </div>
+    <div class="col">
+    <p>
+    <b class="speaker-name">罗东川 </b><br>
+    <b>中国福建省委副书记、政法委书记、海丝中央法务区建设工作领导小组组长 </b> <br><br>
+    罗东川，中国福建省委副书记、政法委书记、海丝中央法务区建设工作领导小组组长
+    </p>
+    </div>
+  </div>
+<hr>
+<br>
+
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/speakers-opening-Lui Tuck Yew.jpg" alt="Photo of Lui Tuck Yew"> 
@@ -51,4 +84,35 @@ permalink: /speakers-and-moderators/opening-ceremony/
     </p>
     </div>
   </div>
+<hr>
+<br>
+
+ <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-opening-cui yonghui.jpg" alt="Photo of Cui Yonghui"> 
+    </div>
+    <div class="col">
+    <p>
+    <b class="speaker-name">崔永辉 </b><br>
+    <b>中国福建省委常委、厦门市委书记、海丝中央法务区建设工作厦门领导小组组长 </b> <br><br>
+    福建省委常委、厦门市委书记、海丝中央法务区建设工作厦门领导小组组长
+    </p>
+    </div>
+  </div>
+
+<hr>
+<br>
+
+<div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-opening-ren hongbin.jpg" alt="Photo of Ren Hongbin"> 
+    </div>
+    <div class="col">
+    <p>
+    <b class="speaker-name">任鸿斌 </b><br>
+    <b>中国国际贸易促进委员会党组书记、会长 </b><br><br>
+    Mr. REN Hongbin obtained a master’s degree in Engineering. At the Ministry of Commerce (MOFCOM), he worked successively as deputy director-general level official at the Department of European Affairs, Commercial Counselor (deputy director-general level) at the Chinese Embassy in Hungary, Party Secretary and Vice President of China Academy of International Trade and Economic Cooperation, MOFCOM (director-general level); Director-General of the Department of WTO Affairs and Director-General of China WTO Notification and Inquiry Center, and Director-General of the Department of Foreign Trade and Deputy Director of National Mechanic and Electronic Import and Export Office. In May 2018, he became a member of the Leading CPC Members Group of MOFCOM and Assistant Minister of Commerce. In July 2021, he was appointed Vice Minister of Commerce. Since January 2022, he was appointed Secretary of the Leading CPC Members Group and Chairman of the CCPIT.
+    </p>
+    </div>
+  </div>
  </div>
