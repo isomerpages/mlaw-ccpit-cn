@@ -79,8 +79,6 @@ permalink: /speakers-and-moderators/closing-ceremony/
     </p>
     </div>
   </div>
-  <hr>
-  <br>
   </div>
 
 
