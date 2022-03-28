@@ -32,7 +32,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
   </div>
   <hr>
 
-## 致辞嘉宾
+## 领导致辞
 
 <div class="sgds-container">
   <div class="row is-desktop">
@@ -51,7 +51,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
   </div>
  <hr>
  <br>
- 
+
  <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/speakers-opening-luo dongchuan.jpg" alt="Photo of Luo Dongchuan"> 

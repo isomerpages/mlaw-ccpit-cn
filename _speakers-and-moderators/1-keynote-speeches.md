@@ -35,7 +35,7 @@ permalink: /speakers-and-moderators/keynote-speeches/
   </div>
   <hr>
 
-## 发言嘉宾
+## 主旨演讲嘉宾
 
 <div class="sgds-container">
   <div class="row is-desktop">
@@ -56,7 +56,7 @@ permalink: /speakers-and-moderators/keynote-speeches/
 
   <div class="row is-desktop">
       <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-      <img src="/images/speakers-keynote speech-andre-maniam.jpg" alt="Photo of Andre Maniam"> 
+      <img src="/images/speakers-keynote speech-Andre Maniam.jpg" alt="Photo of Andre Maniam"> 
       </div>
       <div class="col">
       <p>
