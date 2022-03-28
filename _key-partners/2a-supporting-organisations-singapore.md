@@ -12,6 +12,10 @@ third_nav_title: 支持单位
     margin-left: 0; 
     }
 
+  .bc-logo img {
+
+  }
+
   .siac-logo img {
 
   }
@@ -40,7 +44,15 @@ third_nav_title: 支持单位
 
 ## 支持单位（新加坡）
 
+<div class="img-logo bc-logo">
+  <img src="/images/logo-BusinessChinaSG.jpg" title="Business China Logo" alt="Business China Logo">
+</div>
 
+<b>通商中国</b>由新加坡建国总理李光耀先生于2007年11月创立，他也是通商中国的创会赞助人。通商中国的宗旨是建立一个以华文华语为交流媒介的平台，造就一批双语双文化的中流砥柱，保留我国多元文化传统，搭建联系中国与世界各地文化和经济的桥梁。
+
+预知更多资料，请游览[https://www.businesschina.org.sg/](https://www.businesschina.org.sg/)
+
+<br>
 <div class="img-logo scma-logo">
   <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>
