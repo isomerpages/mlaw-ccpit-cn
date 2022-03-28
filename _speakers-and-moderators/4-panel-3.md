@@ -76,7 +76,7 @@ permalink: /speakers-and-moderators/panel-3/
 
 <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-panel 3-wang xuehua.png" alt="Photo of Wang Xuehua"> 
+    <img src="/images/speakers-panel 3- wang xuehua.png" alt="Photo of Wang Xuehua"> 
     </div>
     <div class="col">
       <p>
