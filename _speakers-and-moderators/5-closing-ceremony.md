@@ -23,7 +23,7 @@ permalink: /speakers-and-moderators/closing-ceremony/
     <div class="col">
     <p>
     <b class="speaker-name">柯碧如女士 </b><br>
-    <b>中国贸促会厦门市委员会党组书记、会长 </b><br> <br> 
+    <b>中国国际贸易促进委员会厦门市委员会党组书记、会长 </b><br> <br> 
     柯碧如，女，汉族，福建厦门人，1975年3月出生，中共党员，大学学历, 经济学硕士学位。<br><br>
     现任中国国际贸易促进委员会厦门市委员会党组书记、会长；厦门市招商引资工作领导小组办公室专职副主任。历任厦门市财政局税政处副处长、处长；厦门市海沧区委办常务副主任；厦门市海沧区政府党组成员、区委办常务副主任；厦门市海沧区政府党组成员、副区长；厦门市商务局党组成员、副局长。
     </p>
@@ -42,7 +42,7 @@ permalink: /speakers-and-moderators/closing-ceremony/
     <div class="col">
     <p>
     <b class="speaker-name">黄晓舟先生 </b><br>
-    <b>中国福建厦门市委常委、副市长 <br> <br> </b>
+    <b>中国福建厦门市委常委、副市长；中国福建海丝中央法务区建设工作厦门领导小组副组长 <br> <br> </b>
       黄晓舟，中国福建厦门市委常委、副市长
     </p>
     </div>
