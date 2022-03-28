@@ -32,7 +32,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
   </div>
   <hr>
 
-## 致辞嘉宾
+## 领导致辞
 
 <div class="sgds-container">
   <div class="row is-desktop">
