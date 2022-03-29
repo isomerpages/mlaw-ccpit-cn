@@ -41,7 +41,7 @@ third_nav_title: 支持单位
   }
    
      .scca-logo img {
-    max-height: 100px;
+    max-height: 60px;
   }
 
 </style>
