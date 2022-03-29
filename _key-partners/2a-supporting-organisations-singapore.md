@@ -59,6 +59,13 @@ third_nav_title: 支持单位
 想获取即时信息，请追踪我们的社交媒体平台：[Facebook](http://fb.com/businesschinasg), [Instagram](http://instagram.com/businesschinasingapore), [LinkedIn](http://linkedin.com/company/businesschinasg).
 
 <br>
+<div class="img-logo scca-logo">
+  <img src="/images/SCCA logo.jpg" title="SCCA Logo" alt="SCCA Logo">
+</div>
+
+<b>新加坡企业法律顾问协会 </b>是一个代表在企业和单位工作的法律顾问的利益的全国性组织。我们致力支持法律顾问的工作与个人提升需求。除了拥有与国外法律顾问协会的国际性联盟，我们也制定合适的培训课程、领导和行业对话、职业工具包以及法律顾问能力框架。
+
+<br>
 <div class="img-logo scma-logo">
   <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>
@@ -110,10 +117,4 @@ SIMI旨在通过建立、运用和执行世界级的调解标准来推广最佳�
 
 若想查询有关我们机构的更多信息，请游览网站 [http://www.simi.org.sg](http://www.simi.org.sg).
 
-<br>
-<div class="img-logo scca-logo">
-  <img src="/images/SCCA logo.jpg" title="SCCA Logo" alt="SCCA Logo">
-</div>
-
-<b>新加坡企业法律顾问协会 </b>是一个代表在企业和单位工作的法律顾问的利益的全国性组织。我们致力支持法律顾问的工作与个人提升需求。除了拥有与国外法律顾问协会的国际性联盟，我们也制定合适的培训课程、领导和行业对话、职业工具包以及法律顾问能力框架。
 
