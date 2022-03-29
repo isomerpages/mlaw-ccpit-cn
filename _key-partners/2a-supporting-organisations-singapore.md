@@ -39,6 +39,10 @@ third_nav_title: 支持单位
   .simi-logo img {
     max-height: 100px;
   }
+   
+     .scca-logo img {
+    max-height: 60px;
+  }
 
 </style>
 
@@ -53,6 +57,13 @@ third_nav_title: 支持单位
 预知更多资料，请游览[https://www.businesschina.org.sg/](https://www.businesschina.org.sg/)
 
 想获取即时信息，请追踪我们的社交媒体平台：[Facebook](http://fb.com/businesschinasg), [Instagram](http://instagram.com/businesschinasingapore), [LinkedIn](http://linkedin.com/company/businesschinasg).
+
+<br>
+<div class="img-logo scca-logo">
+  <img src="/images/SCCA logo.jpg" title="SCCA Logo" alt="SCCA Logo">
+</div>
+
+<b>新加坡企业法律顾问协会 </b>是一个代表在企业和单位工作的法律顾问的利益的全国性组织。我们致力支持法律顾问的工作与个人提升需求。除了拥有与国外法律顾问协会的国际性联盟，我们也制定合适的培训课程、领导和行业对话、职业工具包以及法律顾问能力框架。
 
 <br>
 <div class="img-logo scma-logo">
@@ -105,4 +116,5 @@ SIDRA由三大项目进行研究：国际争议解决调查（SIDRA调查）, �
 SIMI旨在通过建立、运用和执行世界级的调解标准来推广最佳调解实践和高水平的调解能力标准。为了实现这目标，我们为从事调解培训和服务的组织及调解员制定了SIMI合作伙伴项目以及SIMI调解员认证项目。同时，我们还与国际调解学会与调解认证机构合作，在所有调解领域的实践中将具有透明度和高水平的调解标准推广到全世界。
 
 若想查询有关我们机构的更多信息，请游览网站 [http://www.simi.org.sg](http://www.simi.org.sg).
+
 
