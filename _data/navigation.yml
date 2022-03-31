@@ -7,6 +7,8 @@
 logo: /images/CCPIT-House-Blue50.png
 
 links:
+  - title: EN
+    url: 'https://scdr-conference.mlaw.gov.sg/'
   - title: 论坛
     collection: conference
   - title: 视频
@@ -17,8 +19,7 @@ links:
     collection: key-partners
   - title: 往届论坛
     url: /past-conference/
-  - title: EN
-    url: 'https://scdr-conference.mlaw.gov.sg/'
+
     
 
 

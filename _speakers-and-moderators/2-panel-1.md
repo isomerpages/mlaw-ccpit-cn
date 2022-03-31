@@ -56,6 +56,24 @@ permalink: /speakers-and-moderators/panel-1/
 
   <div class="row is-desktop">
       <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+      <img src="/images/speakers-panel 1-Tan Ken Hwee.jpg" alt="Photo of Tan Ken Hwee"> 
+      </div>
+      <div class="col">
+      <p>
+      <b class="speaker-name">陈建伟先生 </b><br>
+      <b>新加坡最高法院转型与创新总监</b><br> <br> 
+作为新加坡最高法院的转型与创新总监，陈建伟负责最高法院、国家法院和家事司法法院的转型、数字化、创新和技术等方面的计划。他参与了2020年冠状病毒疾病（临时援助措施）法令和2021年的《民事与刑事司法法庭改革法案》等关系到法律改革的工作。陈建伟也负责新加坡司法机构的 “未来法庭”工作计划。<br><br>
+在担任这个职位之前，陈律师是新加坡总检察署的首席检察官，主管金融和科技犯罪司。金融和科技犯罪司所负责处理新加坡的白领犯罪案件，包括欺诈、刑事背信、腐败、网络犯罪、洗钱、恐怖主义融资，以及触犯证券与期货法令和证券和期货法和公司法的违法行为。<br><br>
+他也曾担任提供关于公共国际法的高级国家法律顾问和最高法院的高级助理书记官长。作为国家高级法律顾问，他在1998年的《电子交易法》、1996年的《互联网运作准则》以及多个滥用电脑法令等关键的立法过程中提供了协助。<br><br>
+陈建伟曾担任在新加坡总检察署和最高法院的首席信息官，并自1990年从事新加坡法律技术领域的工作。
+    </p>
+  </div>
+  </div>
+  <hr>
+  <br>
+
+  <div class="row is-desktop">
+      <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
       <img src="/images/speakers-panel 1-huang huikang.jpg" alt="Photo of Huang Huikang"> 
       </div>
       <div class="col">
