@@ -59,8 +59,8 @@ permalink: /speakers-and-moderators/opening-ceremony/
     <div class="col">
     <p>
     <b class="speaker-name">罗东川先生 </b><br>
-    <b>中国福建省委副书记、政法委书记；海丝中央法务区建设工作领导小组组长 </b> <br><br>
-    罗东川，中国福建省委副书记、政法委书记、海丝中央法务区建设工作领导小组组长
+    <b>福建省委副书记、政法委书记；海丝中央法务区建设工作领导小组组长 </b> <br><br>
+    罗东川，福建省委副书记、政法委书记、海丝中央法务区建设工作领导小组组长
     </p>
     </div>
   </div>
@@ -94,7 +94,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
     <div class="col">
     <p>
     <b class="speaker-name">崔永辉先生 </b><br>
-    <b>中国福建省委常委、厦门市委书记、海丝中央法务区建设工作厦门领导小组组长 </b> <br><br>
+    <b>福建省委常委、厦门市委书记、海丝中央法务区建设工作厦门领导小组组长 </b> <br><br>
     福建省委常委、厦门市委书记、海丝中央法务区建设工作厦门领导小组组长
     </p>
     </div>
