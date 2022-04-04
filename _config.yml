@@ -29,7 +29,7 @@ collections:
   key-partners:
     output: true
   media:  
-    outut: true
+     outut: true
 google_analytics: UA-223334662-2
 resources_name: news
 
