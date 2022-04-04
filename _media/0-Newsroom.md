@@ -14,6 +14,6 @@ permalink: /media/newsroom
 </style>
 
 <small><b>2022年四月四日</b></small><br>
-<a class="news-headline" href="https://www.zaobao.com.sg/news/china/story20220404-1257688">诉讼 仲裁 调解—中新国际商事争议解决面面观</a>
+<a class="news-headline" href="https://www.zaobao.com.sg/news/china/story20220404-1257688" target="_blank">诉讼 仲裁 调解—中新国际商事争议解决面面观</a>
 
-<a class="news-headline" href="https://www.zaobao.com.sg/news/china/story20220404-1259118">中新国际商事争议解决论坛 本周四登场 </a>
+<a class="news-headline" href="https://www.zaobao.com.sg/news/china/story20220404-1259118" target="_blank">中新国际商事争议解决论坛 本周四登场 </a>
