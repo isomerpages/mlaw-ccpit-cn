@@ -42,8 +42,8 @@ permalink: /speakers-and-moderators/closing-ceremony/
     <div class="col">
     <p>
     <b class="speaker-name">黄晓舟先生 </b><br>
-    <b>中国福建厦门市委常委、副市长；中国福建海丝中央法务区建设工作厦门领导小组副组长 <br> <br> </b>
-      黄晓舟，中国福建厦门市委常委、副市长
+    <b>厦门市委常委、副市长；海丝中央法务区建设工作厦门领导小组副组长 <br> <br> </b>
+      黄晓舟，福建厦门市委常委、副市长
     </p>
     </div>
   </div>

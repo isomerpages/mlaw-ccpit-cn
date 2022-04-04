@@ -1,6 +1,7 @@
 ---
 title: 往届论坛 (2019 年）
-permalink: /past-conference
+permalink: media/photos/2019-conference
+third_nav_title: 照片
 ---
 
 第一届论坛反应热烈，汇集了来自中新两国政府部门、法律界、工商界和企业律师等资深代表。请浏览本页回顾第一届论坛的图片。
@@ -45,3 +46,4 @@ permalink: /past-conference
 *论坛嘉宾在晚宴上进行交流*
 <br>
 <br>
+
