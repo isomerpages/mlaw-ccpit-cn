@@ -1,7 +1,7 @@
 ---
 title: 媒体文章
 text-align: justify
-permalink:/media/newsroom
+permalink: /media/newsroom
 ---
 <style> 
 
