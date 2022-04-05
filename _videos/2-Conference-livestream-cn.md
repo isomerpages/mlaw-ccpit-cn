@@ -1,5 +1,6 @@
 ---
-title: 论坛直播网址（中文）
+title: 论坛直播（中文）
 permalink: /Videos/Conference-livestream-cn
 ---
-### 信息正在更新
+
+此直播将于 4 月 7 日（星期四）上午 9 点（GMT+8）开始。 如果您无法观看视频，请刷新您的浏览器。
