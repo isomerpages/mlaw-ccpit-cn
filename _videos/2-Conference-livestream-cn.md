@@ -1,5 +1,5 @@
 ---
-title: 论坛直播网址（中文）
+title: 论坛直播（中文）
 permalink: /Videos/Conference-livestream-cn
 ---
 
