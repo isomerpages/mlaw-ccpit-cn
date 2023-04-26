@@ -1,6 +1,6 @@
 ---
 title: 往届论坛 (2019 年）
-permalink: media/photos/2019-conference
+permalink: media/photos/2019-conference/
 third_nav_title: 照片
 ---
 
