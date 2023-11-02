@@ -1,0 +1,26 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/CCPIT-House-Blue50.png
+
+links:
+  - title: EN
+    url: 'https://scdr-conference.mlaw.gov.sg/'
+  - title: 论坛
+    collection: conference
+  - title: 视频
+    collection: videos
+  - title: 演讲者与主持人
+    collection: speakers-and-moderators
+  - title: 机构介绍
+    collection: key-partners
+  - title: 媒体
+    collection: media
+
+    
+
+
+
