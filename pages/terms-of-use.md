@@ -74,7 +74,7 @@ iii. You may make copies of the text for the purposes of applying for licences, 
 
 7.**Privacy Policy**
 
-i. Please click [here](https://mlaw-ccpit-staging.netlify.app/privacy/) to review the Digital Service’s Privacy Statement. 
+i. Please click [here](/privacy/) to review the Digital Service’s Privacy Statement. 
 
 8.**Disclaimers and Limitation of Liability**
 
